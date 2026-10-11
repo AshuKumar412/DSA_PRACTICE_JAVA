@@ -1,0 +1,26 @@
+# Compiled Java class files
+*.class
+
+# Build and output directories
+bin/
+out/
+build/
+target/
+
+# Eclipse metadata and caches
+.metadata/
+.recommenders/
+.settings/
+
+# IntelliJ IDEA temporary / workspace files
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/tasks.xml
+.idea/sonarlint/
+
+# OS and log files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
